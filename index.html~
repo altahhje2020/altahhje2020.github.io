@@ -1,0 +1,40 @@
+<!DCOTYPE html>
+<html>
+<head>
+	<title> Knot It Up!</title>
+	<!--<meta charset= "utf-8"/>
+	<link rel= "stylesheet" type= "text/css"
+    href= "main.css"-->
+	<style> 
+	li {
+		display:inline;
+}
+ </style>
+
+</head>
+<body>
+	<ul> 
+	<li> Home</li>
+	<li> Supplies</li>
+	<li> Patterns</li>
+	<li> Reading Patterns</li>
+	</ul>
+
+	<h1> Welcome!</h1>
+
+	<h3> This website will show you the basics of making a brecelet. They consist only of string and knotting the string into a specific pattern will get you a design. By the time your done, you will be able to make a simple bracelet that you can show off to your friends.</h3>
+
+<img src="bracelet.jpg" alt="Frienship Bracelet" height="200" width="200">
+<img src="string.jpg" alt="emriodery floss" height="200" width="200">
+	
+
+	<h3> To start you should get some string in your desired colors. Depending on the design you want to make you may need more or less colors or you may need to cut many strings of the same color. Once you have made you choice, cut them to about double the size of your armspan. This should be enough string. Lets say that you need two strings, if they are the same color, you can use only one. Folding the string in half and knotting it at the top will give you two strings and a little loop that will be handy in tying the bracelet on. </h3>
+
+	<h3> The link below will take you to a lot of patterns. These will help you know which strings to knot and when or how to knot them. The patterns vary in level and some make very intricate designs. The gallery will help you get some ideas as well.</h3>
+	<a href="http://friendship-bracelets.net" > Click on me to see new patterns!</a>
+
+	<h3> You may be asking how to read a pattern. Its acutally pretty easy once you get familiar. This video will help you understand the different kinds of knots and the bascis of reading a pattern. the video below will be beneficial and it will show you how to translate patterns. </h3>
+	<a href="https://www.youtube.com/watch?v=w4Rs_uA7_Vw" > click on me to learn how to read a pattern! </a>
+
+<body>
+</html>
